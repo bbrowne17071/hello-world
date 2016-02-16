@@ -1,5 +1,4 @@
 # hello-world
 Learning file
 
-I am stir crazy today
-I cant wait for champions league this afternoon 
+Does this still work even though it is from a different base
